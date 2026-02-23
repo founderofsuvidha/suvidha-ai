@@ -1,0 +1,74 @@
+nohup: ignoring input
+Vertex AI Backend listening at http://localhost:5000
+[Node Proxy] Matched API client: VertexGenAi:streamGenerateContent
+[Node Proxy] Forwarding to Vertex API: https://aiplatform.clients6.google.com/v1/projects/gen-lang-client-0193968542/locations/global/publishers/google/models/gemini-2.5-flash:streamGenerateContent
+[Node Proxy] Sending STREAMING response for VertexGenAi:streamGenerateContent
+[Node Proxy] Vertex stream finished and all data processed for VertexGenAi:streamGenerateContent
+[Node Proxy] Matched API client: VertexGenAi:streamGenerateContent
+[Node Proxy] Forwarding to Vertex API: https://aiplatform.clients6.google.com/v1/projects/gen-lang-client-0193968542/locations/global/publishers/google/models/gemini-2.5-flash:streamGenerateContent
+[Node Proxy] Sending STREAMING response for VertexGenAi:streamGenerateContent
+[Node Proxy] Vertex stream finished and all data processed for VertexGenAi:streamGenerateContent
+[Node Proxy] Matched API client: VertexGenAi:streamGenerateContent
+[Node Proxy] Forwarding to Vertex API: https://aiplatform.clients6.google.com/v1/projects/gen-lang-client-0193968542/locations/global/publishers/google/models/gemini-2.5-flash:streamGenerateContent
+[Node Proxy] Sending STREAMING response for VertexGenAi:streamGenerateContent
+[Node Proxy] Vertex stream finished and all data processed for VertexGenAi:streamGenerateContent
+[Node Proxy] Matched API client: VertexGenAi:streamGenerateContent
+[Node Proxy] Forwarding to Vertex API: https://aiplatform.clients6.google.com/v1/projects/gen-lang-client-0193968542/locations/global/publishers/google/models/gemini-2.5-flash:streamGenerateContent
+[Node Proxy] Sending STREAMING response for VertexGenAi:streamGenerateContent
+[Node Proxy] Vertex stream finished and all data processed for VertexGenAi:streamGenerateContent
+[Node Proxy] Matched API client: VertexGenAi:streamGenerateContent
+[Node Proxy] Forwarding to Vertex API: https://aiplatform.clients6.google.com/v1/projects/gen-lang-client-0193968542/locations/global/publishers/google/models/gemini-2.5-flash:streamGenerateContent
+[Node Proxy] Sending STREAMING response for VertexGenAi:streamGenerateContent
+[Node Proxy] Vertex stream finished and all data processed for VertexGenAi:streamGenerateContent
+[Node Proxy] Matched API client: VertexGenAi:streamGenerateContent
+[Node Proxy] Forwarding to Vertex API: https://aiplatform.clients6.google.com/v1/projects/gen-lang-client-0193968542/locations/global/publishers/google/models/gemini-2.5-flash:streamGenerateContent
+[Node Proxy] Sending STREAMING response for VertexGenAi:streamGenerateContent
+[Node Proxy] Vertex stream finished and all data processed for VertexGenAi:streamGenerateContent
+[Node Proxy] Matched API client: VertexGenAi:streamGenerateContent
+[Node Proxy] Forwarding to Vertex API: https://aiplatform.clients6.google.com/v1/projects/gen-lang-client-0193968542/locations/global/publishers/google/models/gemini-2.5-flash:streamGenerateContent
+[Node Proxy] Sending STREAMING response for VertexGenAi:streamGenerateContent
+[Node Proxy] Vertex stream finished and all data processed for VertexGenAi:streamGenerateContent
+[Node Proxy] Matched API client: VertexGenAi:streamGenerateContent
+[Node Proxy] Forwarding to Vertex API: https://aiplatform.clients6.google.com/v1/projects/gen-lang-client-0193968542/locations/global/publishers/google/models/gemini-2.5-flash:streamGenerateContent
+[Node Proxy] Sending STREAMING response for VertexGenAi:streamGenerateContent
+[Node Proxy] Vertex stream finished and all data processed for VertexGenAi:streamGenerateContent
+[Node Proxy] Matched API client: VertexGenAi:streamGenerateContent
+[Node Proxy] Forwarding to Vertex API: https://aiplatform.clients6.google.com/v1/projects/gen-lang-client-0193968542/locations/global/publishers/google/models/gemini-2.5-flash:streamGenerateContent
+[Node Proxy] Sending STREAMING response for VertexGenAi:streamGenerateContent
+[Node Proxy] Vertex stream finished and all data processed for VertexGenAi:streamGenerateContent
+[Node Proxy] Matched API client: VertexGenAi:streamGenerateContent
+[Node Proxy] Forwarding to Vertex API: https://aiplatform.clients6.google.com/v1/projects/gen-lang-client-0193968542/locations/global/publishers/google/models/gemini-2.5-flash:streamGenerateContent
+[Node Proxy] Sending STREAMING response for VertexGenAi:streamGenerateContent
+[Node Proxy] Vertex stream finished and all data processed for VertexGenAi:streamGenerateContent
+[Node Proxy] Matched API client: VertexGenAi:streamGenerateContent
+[Node Proxy] Forwarding to Vertex API: https://aiplatform.clients6.google.com/v1/projects/gen-lang-client-0193968542/locations/global/publishers/google/models/gemini-2.5-flash:streamGenerateContent
+[Node Proxy] Sending STREAMING response for VertexGenAi:streamGenerateContent
+[Node Proxy] Vertex stream finished and all data processed for VertexGenAi:streamGenerateContent
+[Node Proxy] Matched API client: VertexGenAi:streamGenerateContent
+[Node Proxy] Forwarding to Vertex API: https://aiplatform.clients6.google.com/v1/projects/gen-lang-client-0193968542/locations/global/publishers/google/models/gemini-2.5-flash:streamGenerateContent
+[Node Proxy] Sending STREAMING response for VertexGenAi:streamGenerateContent
+[Node Proxy] Vertex stream finished and all data processed for VertexGenAi:streamGenerateContent
+[Node Proxy] Matched API client: VertexGenAi:streamGenerateContent
+[Node Proxy] Forwarding to Vertex API: https://aiplatform.clients6.google.com/v1/projects/gen-lang-client-0193968542/locations/global/publishers/google/models/gemini-2.5-flash:streamGenerateContent
+[Node Proxy] Sending STREAMING response for VertexGenAi:streamGenerateContent
+[Node Proxy] Vertex stream finished and all data processed for VertexGenAi:streamGenerateContent
+[Node Proxy] Matched API client: VertexGenAi:streamGenerateContent
+[Node Proxy] Forwarding to Vertex API: https://aiplatform.clients6.google.com/v1/projects/gen-lang-client-0193968542/locations/global/publishers/google/models/gemini-2.5-flash:streamGenerateContent
+[Node Proxy] Sending STREAMING response for VertexGenAi:streamGenerateContent
+[Node Proxy] Vertex stream finished and all data processed for VertexGenAi:streamGenerateContent
+[Node Proxy] Matched API client: VertexGenAi:streamGenerateContent
+[Node Proxy] Forwarding to Vertex API: https://aiplatform.clients6.google.com/v1/projects/gen-lang-client-0193968542/locations/global/publishers/google/models/gemini-2.5-flash:streamGenerateContent
+[Node Proxy] Sending STREAMING response for VertexGenAi:streamGenerateContent
+[Node Proxy] Vertex stream finished and all data processed for VertexGenAi:streamGenerateContent
+[Node Proxy] Matched API client: VertexGenAi:streamGenerateContent
+[Node Proxy] Forwarding to Vertex API: https://aiplatform.clients6.google.com/v1/projects/gen-lang-client-0193968542/locations/global/publishers/google/models/gemini-2.5-flash:streamGenerateContent
+[Node Proxy] Sending STREAMING response for VertexGenAi:streamGenerateContent
+[Node Proxy] Vertex stream finished and all data processed for VertexGenAi:streamGenerateContent
+[Node Proxy] Matched API client: VertexGenAi:streamGenerateContent
+[Node Proxy] Forwarding to Vertex API: https://aiplatform.clients6.google.com/v1/projects/gen-lang-client-0193968542/locations/global/publishers/google/models/gemini-2.5-flash:streamGenerateContent
+[Node Proxy] Sending STREAMING response for VertexGenAi:streamGenerateContent
+[Node Proxy] Vertex stream finished and all data processed for VertexGenAi:streamGenerateContent
+[Node Proxy] Matched API client: VertexGenAi:streamGenerateContent
+[Node Proxy] Forwarding to Vertex API: https://aiplatform.clients6.google.com/v1/projects/gen-lang-client-0193968542/locations/global/publishers/google/models/gemini-2.5-flash:streamGenerateContent
+[Node Proxy] Sending STREAMING response for VertexGenAi:streamGenerateContent
+[Node Proxy] Vertex stream finished and all data processed for VertexGenAi:streamGenerateContent
